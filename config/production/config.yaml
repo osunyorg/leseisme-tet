@@ -2,6 +2,11 @@
 
 baseURL: https://test.leseisme.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 312cd2c5-a72e-44d2-a172-3075228b1349
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
